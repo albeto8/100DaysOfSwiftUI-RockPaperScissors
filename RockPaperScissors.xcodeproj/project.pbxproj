@@ -13,6 +13,7 @@
 		F2527803235D2BCF009F1CF9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2527802235D2BCF009F1CF9 /* Assets.xcassets */; };
 		F2527806235D2BCF009F1CF9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2527805235D2BCF009F1CF9 /* Preview Assets.xcassets */; };
 		F2527809235D2BCF009F1CF9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F2527807235D2BCF009F1CF9 /* LaunchScreen.storyboard */; };
+		F2527811235D3875009F1CF9 /* MoveButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2527810235D3875009F1CF9 /* MoveButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F2527805235D2BCF009F1CF9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F2527808235D2BCF009F1CF9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F252780A235D2BCF009F1CF9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F2527810235D3875009F1CF9 /* MoveButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoveButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F25277FC235D2BCD009F1CF9 /* AppDelegate.swift */,
 				F25277FE235D2BCD009F1CF9 /* SceneDelegate.swift */,
 				F2527800235D2BCD009F1CF9 /* ContentView.swift */,
+				F2527810235D3875009F1CF9 /* MoveButton.swift */,
 				F2527802235D2BCF009F1CF9 /* Assets.xcassets */,
 				F2527807235D2BCF009F1CF9 /* LaunchScreen.storyboard */,
 				F252780A235D2BCF009F1CF9 /* Info.plist */,
@@ -148,6 +151,7 @@
 			files = (
 				F25277FD235D2BCD009F1CF9 /* AppDelegate.swift in Sources */,
 				F25277FF235D2BCD009F1CF9 /* SceneDelegate.swift in Sources */,
+				F2527811235D3875009F1CF9 /* MoveButton.swift in Sources */,
 				F2527801235D2BCD009F1CF9 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
